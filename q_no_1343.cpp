@@ -1,4 +1,4 @@
-#1343 Maximum Number of Vowels in a Substring of Given Length
+#1343 Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 #optimal solution using sliding window with fixed size k
 class Solution {
     public:
