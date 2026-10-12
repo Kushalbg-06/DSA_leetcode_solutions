@@ -1,3 +1,4 @@
+#525. Contiguous Array
 class Solution {
     public:
         int findMaxLength(vector<int>& nums) {
@@ -24,3 +25,5 @@ class Solution {
             return maxLen;
         }
     };
+#time complexity:O(n)
+#space complexity:O(n)
