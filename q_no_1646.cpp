@@ -24,4 +24,5 @@ class Solution {
             return maxi;
         }
     };
-    
+#time complexity :O(n)
+#space complexity:O(n)
